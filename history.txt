@@ -5,3 +5,5 @@ Living in Peru since 20177777
 Im going to be a developer this year
 
 I want to learn react and angular to develop my skills as a front end dev
+
+Currenly is a GoDaddy trainer 
